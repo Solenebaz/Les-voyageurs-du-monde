@@ -1,0 +1,22 @@
+.my_navbar{
+	display:flex;
+	justify-content: space-between;
+	object-fit: cover;
+	width: 100%; background: whitesmoke;
+	height: 55px;
+
+}
+
+.links{
+	width: 280px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	
+}
+
+a{
+	text-decoration: none;
+	display:inline-block;
+}
